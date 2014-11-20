@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoggleServer", "BoggleServer\BoggleServer.csproj", "{936F5240-0BF9-431B-BDD2-D95C666FAFE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rsrc", "Rsrc", "{DD55E4F4-F68E-46A6-A640-3900C4F61053}"
+	ProjectSection(SolutionItems) = preProject
+		..\BoggleWordList.txt = ..\BoggleWordList.txt
+		BoggleServer\resources\ClassLibrary2.dll = BoggleServer\resources\ClassLibrary2.dll
+		BoggleServer\resources\ClassLibrary2.XML = BoggleServer\resources\ClassLibrary2.XML
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoggleLauncher", "BoggleLauncher\BoggleLauncher.csproj", "{444CC9DC-CF77-4FFB-ADD5-8D0ACEDCCB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoggleBoard", "BoggleBoard\BoggleBoard.csproj", "{5C7F1215-3BDE-4389-9FA2-9C9E17222263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoggleClientView", "BoggleClientView\BoggleClientView.csproj", "{04E624E5-20A8-4D41-A9AC-8291DA3C3BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoggleGame", "ClassLibrary1\BoggleGame.csproj", "{023E71A2-3752-4767-B819-2B5B3CD26274}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936F5240-0BF9-431B-BDD2-D95C666FAFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936F5240-0BF9-431B-BDD2-D95C666FAFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936F5240-0BF9-431B-BDD2-D95C666FAFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936F5240-0BF9-431B-BDD2-D95C666FAFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444CC9DC-CF77-4FFB-ADD5-8D0ACEDCCB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444CC9DC-CF77-4FFB-ADD5-8D0ACEDCCB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444CC9DC-CF77-4FFB-ADD5-8D0ACEDCCB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444CC9DC-CF77-4FFB-ADD5-8D0ACEDCCB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7F1215-3BDE-4389-9FA2-9C9E17222263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7F1215-3BDE-4389-9FA2-9C9E17222263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7F1215-3BDE-4389-9FA2-9C9E17222263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7F1215-3BDE-4389-9FA2-9C9E17222263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E624E5-20A8-4D41-A9AC-8291DA3C3BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E624E5-20A8-4D41-A9AC-8291DA3C3BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E624E5-20A8-4D41-A9AC-8291DA3C3BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E624E5-20A8-4D41-A9AC-8291DA3C3BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023E71A2-3752-4767-B819-2B5B3CD26274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023E71A2-3752-4767-B819-2B5B3CD26274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023E71A2-3752-4767-B819-2B5B3CD26274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023E71A2-3752-4767-B819-2B5B3CD26274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\csAlbee3500project\PS8\BoggleBoard\bin\Debug\BoggleBoard.dll
+C:\csAlbee3500project\PS8\BoggleBoard\bin\Debug\BoggleBoard.pdb
+C:\csAlbee3500project\PS8\BoggleBoard\obj\Debug\BoggleBoard.csprojResolveAssemblyReference.cache
+C:\csAlbee3500project\PS8\BoggleBoard\obj\Debug\BoggleBoard.dll
+C:\csAlbee3500project\PS8\BoggleBoard\obj\Debug\BoggleBoard.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleBoard\bin\Debug\BoggleBoard.dll
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleBoard\bin\Debug\BoggleBoard.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleBoard\obj\Debug\BoggleBoard.dll
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleBoard\obj\Debug\BoggleBoard.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleBoard\obj\Debug\BoggleBoard.csprojResolveAssemblyReference.cache

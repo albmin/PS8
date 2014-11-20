@@ -1,0 +1,5 @@
+C:\csAlbee3500project\PS8\BoggleServer\bin\Debug\BoggleServer.exe
+C:\csAlbee3500project\PS8\BoggleServer\bin\Debug\BoggleServer.pdb
+C:\csAlbee3500project\PS8\BoggleServer\obj\Debug\BoggleServer.csprojResolveAssemblyReference.cache
+C:\csAlbee3500project\PS8\BoggleServer\obj\Debug\BoggleServer.exe
+C:\csAlbee3500project\PS8\BoggleServer\obj\Debug\BoggleServer.pdb

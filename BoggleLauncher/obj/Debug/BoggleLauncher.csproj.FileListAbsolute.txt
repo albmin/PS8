@@ -1,0 +1,8 @@
+C:\csAlbee3500project\PS8\BoggleLauncher\bin\Debug\BoggleLauncher.exe.config
+C:\csAlbee3500project\PS8\BoggleLauncher\bin\Debug\BoggleLauncher.exe
+C:\csAlbee3500project\PS8\BoggleLauncher\bin\Debug\BoggleLauncher.pdb
+C:\csAlbee3500project\PS8\BoggleLauncher\bin\Debug\BoggleServer.exe
+C:\csAlbee3500project\PS8\BoggleLauncher\bin\Debug\BoggleServer.pdb
+C:\csAlbee3500project\PS8\BoggleLauncher\obj\Debug\BoggleLauncher.csprojResolveAssemblyReference.cache
+C:\csAlbee3500project\PS8\BoggleLauncher\obj\Debug\BoggleLauncher.exe
+C:\csAlbee3500project\PS8\BoggleLauncher\obj\Debug\BoggleLauncher.pdb

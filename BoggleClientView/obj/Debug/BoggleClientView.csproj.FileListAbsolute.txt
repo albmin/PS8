@@ -1,0 +1,30 @@
+C:\csAlbee3500project\PS8\BoggleClientView\bin\Debug\BoggleClientView.exe.config
+C:\csAlbee3500project\PS8\BoggleClientView\bin\Debug\BoggleClientView.exe
+C:\csAlbee3500project\PS8\BoggleClientView\bin\Debug\BoggleClientView.pdb
+C:\csAlbee3500project\PS8\BoggleClientView\obj\Debug\BoggleClientView.csprojResolveAssemblyReference.cache
+C:\csAlbee3500project\PS8\BoggleClientView\obj\Debug\BoggleClientView.BoggleForm.resources
+C:\csAlbee3500project\PS8\BoggleClientView\obj\Debug\BoggleClientView.Properties.Resources.resources
+C:\csAlbee3500project\PS8\BoggleClientView\obj\Debug\BoggleClientView.csproj.GenerateResource.Cache
+C:\csAlbee3500project\PS8\BoggleClientView\obj\Debug\BoggleClientView.exe
+C:\csAlbee3500project\PS8\BoggleClientView\obj\Debug\BoggleClientView.pdb
+<<<<<<< .mine
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\bin\Debug\BoggleClientView.exe.config
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\bin\Debug\BoggleClientView.exe
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\bin\Debug\BoggleClientView.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\obj\Debug\BoggleClientView.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\obj\Debug\BoggleClientView.csproj.GenerateResource.Cache
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\obj\Debug\BoggleClientView.exe
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\obj\Debug\BoggleClientView.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\obj\Debug\BB.BoggleForm.resources
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\PS8\BoggleClientView\obj\Debug\BB.Properties.Resources.resources
+=======
+C:\canabeecsPS8\BoggleClientView\bin\Debug\BoggleClientView.exe.config
+C:\canabeecsPS8\BoggleClientView\bin\Debug\BoggleClientView.exe
+C:\canabeecsPS8\BoggleClientView\bin\Debug\BoggleClientView.pdb
+C:\canabeecsPS8\BoggleClientView\obj\Debug\BoggleClientView.csprojResolveAssemblyReference.cache
+C:\canabeecsPS8\BoggleClientView\obj\Debug\BB.BoggleForm.resources
+C:\canabeecsPS8\BoggleClientView\obj\Debug\BB.Properties.Resources.resources
+C:\canabeecsPS8\BoggleClientView\obj\Debug\BoggleClientView.csproj.GenerateResource.Cache
+C:\canabeecsPS8\BoggleClientView\obj\Debug\BoggleClientView.exe
+C:\canabeecsPS8\BoggleClientView\obj\Debug\BoggleClientView.pdb
+>>>>>>> .r152
